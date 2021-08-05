@@ -1,0 +1,111 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.check24.codingchallenge.data.domain.models////PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/index.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question///PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/index.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question/Question/#kotlin.collections.Map[kotlin.String,kotlin.Any]#kotlin.String#kotlin.String#kotlin.String?#kotlin.Int/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/-question.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question/answers/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/answers.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question/correctAnswer/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/correct-answer.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question/question/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/question.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question/questionImageUrl/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/question-image-url.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/Question/score/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question/score.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption.Companion///PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/-companion/index.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption.Companion/toQuestionOption/kotlin.collections.Map.Entry[kotlin.String,kotlin.Any?]#kotlin.String?#kotlin.String?/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/-companion/to-question-option.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption///PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/index.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption/QuestionOption/#kotlin.String#kotlin.Any?#kotlin.String?#kotlin.String?/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/-question-option.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption/correct/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/correct.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption/key/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/key.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption/option/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/option.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuestionOption/selected/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-question-option/selected.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuizResponse///PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-quiz-response/index.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuizResponse/QuizResponse/#kotlin.collections.List[com.check24.codingchallenge.data.domain.models.Question]/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-quiz-response/-quiz-response.html
+$dokka.location:com.check24.codingchallenge.data.domain.models/QuizResponse/questions/#/PointingToDeclaration/app/com.check24.codingchallenge.data.domain.models/-quiz-response/questions.html
+$dokka.location:com.check24.codingchallenge.data.source.disk////PointingToDeclaration/app/com.check24.codingchallenge.data.source.disk/index.html
+$dokka.location:com.check24.codingchallenge.data.source.disk/LocalQuestionSource///PointingToDeclaration/app/com.check24.codingchallenge.data.source.disk/-local-question-source/index.html
+$dokka.location:com.check24.codingchallenge.data.source.disk/LocalQuestionSource/LocalQuestionSource/#/PointingToDeclaration/app/com.check24.codingchallenge.data.source.disk/-local-question-source/-local-question-source.html
+$dokka.location:com.check24.codingchallenge.data.source.remote////PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/index.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/QuizApi///PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-quiz-api/index.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/QuizApi/getQuestions/#/PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-quiz-api/get-questions.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource.Companion///PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/-companion/index.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource.Companion/HEADER_CACHE_CONTROL/#/PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/-companion/-h-e-a-d-e-r_-c-a-c-h-e_-c-o-n-t-r-o-l.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource.Companion/HEADER_PRAGMA/#/PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/-companion/-h-e-a-d-e-r_-p-r-a-g-m-a.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource///PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/index.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource/RemoteQuestionSource/#android.content.Context/PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/-remote-question-source.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource/buildApi/#java.lang.Class[TypeParam(bounds=[kotlin.Any?])]#kotlin.String?/PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/build-api.html
+$dokka.location:com.check24.codingchallenge.data.source.remote/RemoteQuestionSource/getQuizQuestions/#/PointingToDeclaration/app/com.check24.codingchallenge.data.source.remote/-remote-question-source/get-quiz-questions.html
+$dokka.location:com.check24.codingchallenge.data////PointingToDeclaration/app/com.check24.codingchallenge.data/index.html
+$dokka.location:com.check24.codingchallenge.data/QuizRepository///PointingToDeclaration/app/com.check24.codingchallenge.data/-quiz-repository/index.html
+$dokka.location:com.check24.codingchallenge.data/QuizRepository/QuizRepository/#com.check24.codingchallenge.data.source.remote.RemoteQuestionSource/PointingToDeclaration/app/com.check24.codingchallenge.data/-quiz-repository/-quiz-repository.html
+$dokka.location:com.check24.codingchallenge.data/QuizRepository/getQuizQuestions/#/PointingToDeclaration/app/com.check24.codingchallenge.data/-quiz-repository/get-quiz-questions.html
+$dokka.location:com.check24.codingchallenge.di////PointingToDeclaration/app/com.check24.codingchallenge.di/index.html
+$dokka.location:com.check24.codingchallenge.di/QuizRepoModule///PointingToDeclaration/app/com.check24.codingchallenge.di/-quiz-repo-module/index.html
+$dokka.location:com.check24.codingchallenge.di/QuizRepoModule/provideQuizRepository/#com.check24.codingchallenge.data.source.remote.RemoteQuestionSource/PointingToDeclaration/app/com.check24.codingchallenge.di/-quiz-repo-module/provide-quiz-repository.html
+$dokka.location:com.check24.codingchallenge.di/QuizRepoModule/provideRemoteQuizSource/#android.content.Context/PointingToDeclaration/app/com.check24.codingchallenge.di/-quiz-repo-module/provide-remote-quiz-source.html
+$dokka.location:com.check24.codingchallenge.ui.home////PointingToDeclaration/app/com.check24.codingchallenge.ui.home/index.html
+$dokka.location:com.check24.codingchallenge.ui.home/HomeFragment///PointingToDeclaration/app/com.check24.codingchallenge.ui.home/-home-fragment/index.html
+$dokka.location:com.check24.codingchallenge.ui.home/HomeFragment/HomeFragment/#/PointingToDeclaration/app/com.check24.codingchallenge.ui.home/-home-fragment/-home-fragment.html
+$dokka.location:com.check24.codingchallenge.ui.home/HomeFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.check24.codingchallenge.ui.home/-home-fragment/on-create-view.html
+$dokka.location:com.check24.codingchallenge.ui.home/HomeFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.check24.codingchallenge.ui.home/-home-fragment/on-view-created.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter////PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionDiffUtil///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-diff-util/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionDiffUtil/areContentsTheSame/#com.check24.codingchallenge.data.domain.models.Question#com.check24.codingchallenge.data.domain.models.Question/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-diff-util/are-contents-the-same.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionDiffUtil/areItemsTheSame/#com.check24.codingchallenge.data.domain.models.Question#com.check24.codingchallenge.data.domain.models.Question/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-diff-util/are-items-the-same.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter.QuestionOptionView///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/-question-option-view/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter.QuestionOptionView/QuestionOptionView/#ItemQuizOptionBinding#kotlin.Function1[com.check24.codingchallenge.data.domain.models.QuestionOption,kotlin.Unit]/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/-question-option-view/-question-option-view.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter.QuestionOptionView/bind/#com.check24.codingchallenge.data.domain.models.QuestionOption/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/-question-option-view/bind.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter/QuestionOptionAdapter/#kotlin.Function1[com.check24.codingchallenge.data.domain.models.QuestionOption,kotlin.Unit]/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/-question-option-adapter.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter/onBindViewHolder/#com.check24.codingchallenge.ui.quiz.adapter.QuestionOptionAdapter.QuestionOptionView#kotlin.Int/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/on-bind-view-holder.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-adapter/on-create-view-holder.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionDiffUtil///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-diff-util/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionDiffUtil/areContentsTheSame/#com.check24.codingchallenge.data.domain.models.QuestionOption#com.check24.codingchallenge.data.domain.models.QuestionOption/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-diff-util/are-contents-the-same.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuestionOptionDiffUtil/areItemsTheSame/#com.check24.codingchallenge.data.domain.models.QuestionOption#com.check24.codingchallenge.data.domain.models.QuestionOption/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-question-option-diff-util/are-items-the-same.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter.QuestionPageView///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/-question-page-view/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter.QuestionPageView/QuestionPageView/#ItemQuizBinding#kotlin.Function1[kotlin.Int,kotlin.Unit]/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/-question-page-view/-question-page-view.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter.QuestionPageView/bind/#com.check24.codingchallenge.data.domain.models.Question/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/-question-page-view/bind.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter/QuizPagerAdapter/#kotlin.Function1[kotlin.Int,kotlin.Unit]/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/-quiz-pager-adapter.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter/onBindViewHolder/#com.check24.codingchallenge.ui.quiz.adapter.QuizPagerAdapter.QuestionPageView#kotlin.Int/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/on-bind-view-holder.html
+$dokka.location:com.check24.codingchallenge.ui.quiz.adapter/QuizPagerAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz.adapter/-quiz-pager-adapter/on-create-view-holder.html
+$dokka.location:com.check24.codingchallenge.ui.quiz////PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragment///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragment/QuizFragment/#/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment/-quiz-fragment.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment/on-create-view.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragment/onViewCreated/#android.view.View#android.os.Bundle?/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment/on-view-created.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragmentViewModel///PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment-view-model/index.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragmentViewModel/QuizFragmentViewModel/#com.check24.codingchallenge.data.QuizRepository/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment-view-model/-quiz-fragment-view-model.html
+$dokka.location:com.check24.codingchallenge.ui.quiz/QuizFragmentViewModel/quizQuestions/#/PointingToDeclaration/app/com.check24.codingchallenge.ui.quiz/-quiz-fragment-view-model/quiz-questions.html
+$dokka.location:com.check24.codingchallenge.ui////PointingToDeclaration/app/com.check24.codingchallenge.ui/index.html
+$dokka.location:com.check24.codingchallenge.ui/MainActivity///PointingToDeclaration/app/com.check24.codingchallenge.ui/-main-activity/index.html
+$dokka.location:com.check24.codingchallenge.ui/MainActivity/MainActivity/#/PointingToDeclaration/app/com.check24.codingchallenge.ui/-main-activity/-main-activity.html
+$dokka.location:com.check24.codingchallenge.ui/SharedViewModel///PointingToDeclaration/app/com.check24.codingchallenge.ui/-shared-view-model/index.html
+$dokka.location:com.check24.codingchallenge.ui/SharedViewModel/SharedViewModel/#/PointingToDeclaration/app/com.check24.codingchallenge.ui/-shared-view-model/-shared-view-model.html
+$dokka.location:com.check24.codingchallenge.ui/SharedViewModel/highScore/#/PointingToDeclaration/app/com.check24.codingchallenge.ui/-shared-view-model/high-score.html
+$dokka.location:com.check24.codingchallenge.ui/SharedViewModel/score/#/PointingToDeclaration/app/com.check24.codingchallenge.ui/-shared-view-model/score.html
+$dokka.location:com.check24.codingchallenge.ui/SharedViewModel/updateScore/#kotlin.Int/PointingToDeclaration/app/com.check24.codingchallenge.ui/-shared-view-model/update-score.html
+$dokka.location:com.check24.codingchallenge.utils////PointingToDeclaration/app/com.check24.codingchallenge.utils/index.html
+$dokka.location:com.check24.codingchallenge.utils//isConnected/android.content.Context#/PointingToDeclaration/app/com.check24.codingchallenge.utils/is-connected.html
+$dokka.location:com.check24.codingchallenge.utils//succeeded/com.check24.codingchallenge.utils.Resource[*]#/PointingToDeclaration/app/com.check24.codingchallenge.utils/succeeded.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Error///PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-error/index.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Error/Error/#java.lang.Exception/PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-error/-error.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Error/exception/#/PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-error/exception.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Loading///PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-loading/index.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Success///PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-success/index.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Success/Success/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-success/-success.html
+$dokka.location:com.check24.codingchallenge.utils/Resource.Success/data/#/PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/-success/data.html
+$dokka.location:com.check24.codingchallenge.utils/Resource///PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/index.html
+$dokka.location:com.check24.codingchallenge.utils/Resource/toString/#/PointingToDeclaration/app/com.check24.codingchallenge.utils/-resource/to-string.html
+$dokka.location:com.check24.codingchallenge////PointingToDeclaration/app/com.check24.codingchallenge/index.html
+$dokka.location:com.check24.codingchallenge/App///PointingToDeclaration/app/com.check24.codingchallenge/-app/index.html
+$dokka.location:com.check24.codingchallenge/App/App/#/PointingToDeclaration/app/com.check24.codingchallenge/-app/-app.html
+com.check24.codingchallenge
+com.check24.codingchallenge.data
+com.check24.codingchallenge.data.domain.models
+com.check24.codingchallenge.data.source.disk
+com.check24.codingchallenge.data.source.remote
+com.check24.codingchallenge.di
+com.check24.codingchallenge.ui
+com.check24.codingchallenge.ui.home
+com.check24.codingchallenge.ui.quiz
+com.check24.codingchallenge.ui.quiz.adapter
+com.check24.codingchallenge.utils
+
